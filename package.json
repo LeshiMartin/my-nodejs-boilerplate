@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Martin Leshi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -7,10 +8,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author": {
-		"name": "Martin Leshi",
-		"email": "martinleshi@hotmail.com"
-	},
+
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
